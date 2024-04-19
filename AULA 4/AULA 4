@@ -1,0 +1,10 @@
+num_1 = 2
+num_2 = 8
+soma = num_1+num_2
+
+print("O valor de",num_1,"+",num_2," e :",soma)
+
+metro = 1
+centímentros = metro*100
+
+print(metro,"equivale a",centímentros)
